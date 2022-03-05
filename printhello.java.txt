@@ -3,5 +3,6 @@ class printHELLO
 public static void main (String args[])
 {
 System.out.printIn("This program is written for git and github exp1");
+System.out.printIn("second line");
 }
 }
